@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170864367237",
+    "project_id": "app-dev-final-exam-b3735",
+    "storage_bucket": "app-dev-final-exam-b3735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170864367237:android:cfc6ab8a11f109b13e3bec",
+        "android_client_info": {
+          "package_name": "com.example.myexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170864367237-lhe5b53alba6g7cdlcpg6e5182aobsb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myexam",
+            "certificate_hash": "40ee24872ca48ee42b14d9f571d9749838831cf6"
+          }
+        },
+        {
+          "client_id": "170864367237-irre3df5c5l5ks8qvbbhckuiollgmbsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIJe4tiy6UCFJgtOCKh3MTKFLCDb8TIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170864367237-irre3df5c5l5ks8qvbbhckuiollgmbsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
