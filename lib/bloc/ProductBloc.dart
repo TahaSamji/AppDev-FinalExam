@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
- // Assuming you have a Product model
+import 'package:myexam/models/Products.dart';
+import 'package:myexam/service/FirestoreService.dart';
 
 abstract class ProductEvent {}
 
